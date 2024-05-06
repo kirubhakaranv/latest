@@ -1,3 +1,26 @@
 hello
 THESE ARE BASH COMMANDS
-hello world
+
+pwd
+cd
+./ ../
+
+mkdir
+rmdir
+rm -r
+echo hello
+echo hello >>file.txt
+
+cat file.txt
+
+
+
+git config --global
+
+git init(used to initialize a git repo)
+
+git add <file>(wd->sa)
+
+git status (current status check)
+
+git commit -m ""(sa->repo ,with commit messages)
