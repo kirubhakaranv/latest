@@ -24,3 +24,31 @@ git add <file>(wd->sa)
 git status (current status check)
 
 git commit -m ""(sa->repo ,with commit messages)
+
+git help(gives whole command collection)
+
+git help remote(opens a website for the given command with explanation)
+
+git remote add origin <url> (sets name for the remote url)
+
+git remote(lists the url names(remote))
+
+git branch -m <name> (changes the branch from master to the desired name ,mostly it is main)
+
+git push -u <origin_name> <branch> (pushes local repo to remote repo)
+    eg: git push -u origin main
+
+git pull origin (pull file from GitHub to git)
+
+
+
+IN AN A EXISTING PROJECT 
+To add all files simultaneously -- git add.
+
+git commit -m "initial commit"
+
+git status
+
+For multiple branches
+   --git branch <branch name>
+   --git checkout <branch name> (to move to the particular branch )
