@@ -1,0 +1,3 @@
+hello
+THESE ARE BASH COMMANDS
+hello world
